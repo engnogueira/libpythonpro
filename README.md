@@ -14,3 +14,5 @@ Palmeiras
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 
+1. Pip
+
