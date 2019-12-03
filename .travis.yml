@@ -4,8 +4,8 @@ python:
 install:
   - pip install -q -r requirements-dev.txt
   - pip install -q pipenv codecov
-  - pipenv sync --dev
   - pipenv lock
+  - pipenv sync --dev
 script:
   - flake8
   - pytest libpythonpro --cov=libpythonpro
