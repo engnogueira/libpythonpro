@@ -95,7 +95,6 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-#NAME = PACKAGE
 NAME = 'eng_libpythonpro'
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Gilson Nogueira"
@@ -107,12 +106,10 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    #long_description=read('README.md'),
     long_description='Quando surge o alviverde imponente...',
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    #license=read('LICENSE'),
     license='GNU Affero General Public License v3 or later (AGPLv3+)',
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
