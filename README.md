@@ -8,10 +8,6 @@ Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Aluno: Gilson de Brito Nogueira
 
-Engenheiro Civil
-
-Palmeiras 
-
 Link do curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/engnogueira/libpythonpro.svg?branch=master)](https://travis-ci.org/engnogueira/libpythonpro)
